@@ -1,2 +1,4 @@
-# class19-code
-Sample sockets code.
+class14-code
+============
+
+Code to demonstrate socket programming.
